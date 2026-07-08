@@ -1,0 +1,6 @@
+=== SALES FORECASTING TRAINING LOG ===
+
+Ridge Regression: MAE=13.82, RMSE=17.55, R²=0.3906, Time=0.0s
+Random Forest: MAE=16.02, RMSE=19.67, R²=0.2344, Time=0.4s
+XGBoost: MAE=16.08, RMSE=20.09, R²=0.2014, Time=0.6s
+Gradient Boosting: MAE=16.93, RMSE=21.13, R²=0.1163, Time=0.5s
